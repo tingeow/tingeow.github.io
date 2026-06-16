@@ -1,1 +1,1 @@
-text
+Folder is for images for embedding, etc.
